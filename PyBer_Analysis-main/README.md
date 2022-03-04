@@ -4,14 +4,6 @@
 Given a wealth of data regarding the ride-sharing company PyBer's customer and driver data, our goal is to analyze and explore potential correlation between market factors in specific types of cities and the total fare revenue generated in those areas.  Visualizations were created to help illustrate the disparities between types of cities, be they Rural, Suburban, or Urban.
 
 ---
-## Resources
-**Source Files:** [city_data.csv](https://github.com/ZeroDarkHardy/PyBer_Analysis/blob/main/Resources/city_data.csv), [ride_data.csv](https://github.com/ZeroDarkHardy/PyBer_Analysis/blob/main/Resources/ride_data.csv)
-
-**Python Code (via Jupyter Notebook):** [PyBer_Challenge.ipynb](https://github.com/ZeroDarkHardy/PyBer_Analysis/blob/main/PyBer_Challenge.ipynb)
-
-**Software:** Python 3.7.10, Anaconda, Pandas, Matplotlib.pyplot, Jupyter Notebook, Visual Studio Code 1.62.1
-
----
 ## Results
 ### Summary of rides, drivers and fares by city type:
 ![PyBer_Summary_DF](https://github.com/ZeroDarkHardy/PyBer_Analysis/blob/main/analysis/pyber_summary_df.png)
